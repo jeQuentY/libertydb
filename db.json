@@ -1,12 +1,5 @@
-local database_users = {
-
-  live = {
-  },
-  
-  debug = {
-  },
-  
-  dev = {
-  }
-  
+{
+  "live": [
+    
+  ]
 }
