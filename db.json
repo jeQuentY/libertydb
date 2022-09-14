@@ -1,8 +1,5 @@
 {
-  "blacklist": [
-    "QuentY"
-  ],
-  "reason": [
-    "NIGA U GAY"
-    ]
+    "blacklists": [
+       { "User": "QuentY", "Reason": "Motiv" }
+     ]
 }
