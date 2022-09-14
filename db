@@ -1,0 +1,12 @@
+local database_users = {
+
+  live = {
+  },
+  
+  debug = {
+  },
+  
+  dev = {
+  }
+  
+}
