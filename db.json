@@ -1,6 +1,5 @@
 {
     "blacklists": [
-       { "User": "QuentY", "Reason": "Motiv" },
        { "User": "Roxan", "Reason": "Motiv" }
     ]
 }
